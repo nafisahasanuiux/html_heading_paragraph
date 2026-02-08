@@ -1,4 +1,4 @@
-#HTML Headings & Paragraphs
+HTML Headings & Paragraphs
 
 This project demonstrates basic HTML text elements.
 
